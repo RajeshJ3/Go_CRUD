@@ -1,6 +1,6 @@
-# CRUD Operations on Go/Golang
+# CRUD Operations in Go/Golang
 
-> Hello Coders 🙋‍♂️, This was my first day of learning Golang. In this repo you'll find a basic CRUD operation performing program.
+> Hello Coders 🙋‍♂️ This is my first day of learning Golang. In this repo you'll find a basic CRUD operation performing program.
 This is basically for my future references 😆😅.
 
 ----
